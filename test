@@ -29,3 +29,79 @@ If bills are required, won't it be challenging for Functional Heads to manually 
 I'm just checking the future possibility—are there any plans to integrate an OCR solution later so that bills can be automatically extracted and verified?
 
 
+
+Based on your impact map, a complete Travel Budget Management System would need around 12–15 UI pages depending on the user roles.
+
+Common Pages
+
+1. Login
+
+
+2. Dashboard (role-based)
+
+
+3. Profile / Settings
+
+
+
+Employee (Traveller)
+
+4. Pre-Travel Request Form
+
+
+5. My Travel Requests (status tracking)
+
+
+6. Post-Travel Expense Entry
+
+
+7. My Expenses / Expense History
+
+
+
+Functional Head
+
+8. Approval Queue (Approve/Reject pre-travel requests)
+
+
+9. Team Budget Dashboard
+
+
+10. Threshold Alerts Dashboard
+
+
+
+Regional CRO / CAO
+
+11. Regional Approval Queue
+
+
+12. Regional Spend Dashboard
+
+
+
+Admin (Global Risk HQ)
+
+13. Budget Allocation (assign yearly budget per function)
+
+
+14. Budget Period Management (create/close fiscal year)
+
+
+15. User & Role Management (assign users, functions, regions)
+
+
+
+Optional (Future)
+
+Reports & Analytics
+
+Notification Center
+
+Audit Logs
+
+OCR Bill Verification page (if OCR is added)
+
+
+For your current requirements, 15 pages would be a good, complete design. If you're creating a Figma prototype or UI mockup, these pages should cover all the functionality described in your impact map.
+
