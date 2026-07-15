@@ -2,3 +2,30 @@ Functional heads should approve or reject requests based on the available budget
 Regional approvers should review requests using regional budget visibility.
 Employees should submit a pre-travel request before booking and submit actual expenses after the trip.
 The HQ team should allocate yearly budgets and manage budget periods.
+
+A pre-travel request and approval process with real-time budget visibility.
+
+Approve or reject actions with comments.
+
+Budget threshold alerts through email and in-app notifications.
+
+Dashboards for budget alerts and regional spending.
+
+Forms for submitting pre-travel requests and post-travel expenses.
+
+Validation to ensure post-travel expenses can only be submitted after an approved pre-travel request.
+
+Budget allocation and budget period management.
+
+
+First, is the pre-travel request approval process sequential or parallel? For example, does the Functional Head approve it first and then the Regional CRO/CAO, or do both approve it in parallel?
+
+Second, after the trip is completed and the employee submits the actual expenses, does that expense submission go through the same approval process, or is it different?
+
+Third, on what basis will the approvers approve the expense? Will employees need to upload supporting bills or receipts?
+
+If bills are required, won't it be challenging for Functional Heads to manually verify every receipt?
+
+I'm just checking the future possibility—are there any plans to integrate an OCR solution later so that bills can be automatically extracted and verified?
+
+
