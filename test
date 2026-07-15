@@ -105,3 +105,7 @@ OCR Bill Verification page (if OCR is added)
 
 For your current requirements, 15 pages would be a good, complete design. If you're creating a Figma prototype or UI mockup, these pages should cover all the functionality described in your impact map.
 
+
+If a function exceeds its allocated budget, the system will send threshold notifications. But what happens if there's still budget remaining at the end of the budget period?
+Will the unused budget be carried forward to the next fiscal year, or will it expire and a new budget be allocated?
+
